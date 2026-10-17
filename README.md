@@ -5,19 +5,18 @@
 
 Hey, I'm nyx.
 
-I'm exploring software development, AI, and open source — one commit at a time.
+I'm interested in software development, AI, and open source contribution .
 
 ### `> currently`
 
-- Learning the fundamentals of programming
-- Exploring Git, GitHub, and collaborative development
-- Looking for beginner-friendly open-source contributions
+- Exploring collaborative development
+- Looking for open-source contributions
 
 ### `> principles`
 
 - learn by building
 - read the code before changing it
-- make small, meaningful contributions
+- make meaningful contributions
 - stay curious
 
 ### `> find me`
