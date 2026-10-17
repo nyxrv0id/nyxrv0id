@@ -27,6 +27,9 @@ I'm interested in software development, AI, and open source contribution .
 
 <sub>still learning. always building.</sub>
 
+### Open-source contribution
+
+Contributed a mobile settings focus-management fix to [hybriden/paperboy](https://github.com/hybriden/paperboy/pull/86), with maintainer review and passing CI.
 
 <!--
 **nyxrv0id/nyxrv0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
